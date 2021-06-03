@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius rusticus: the downfall of tythes. The country-man discovering the pride, lewdness, covetousness, and ambition of the fat beneficed priests, incroaching tythe-mongers, and oppressing impropriatos, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89076</idno><idno type="EEBO-CITATION">99866175</idno>
+  <idno type="VID">118439</idno>
+  <idno type="EEBO-PROQUEST">2240945154</idno>
+  
+            <idno type="STC">Wing M1771</idno>
+            <idno type="STC">Thomason E705_6</idno>
+            <idno type="STC">ESTC R207104</idno>
+            <idno type="PROQUEST">99866175</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866175e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118439)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E705[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius rusticus: the downfall of tythes. The country-man discovering the pride, lewdness, covetousness, and ambition of the fat beneficed priests, incroaching tythe-mongers, and oppressing impropriatos, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 10th 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes --  Great Britain --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118439:1"/>
+            <head>
+               <hi>Mercurius Rusticus:</hi> The downfall of Tythes.</head>
+            <argument>
+               <p>The Country-man discovering the pride, lewdness, covetousness, and ambition of the fat beneficed Priests, incroaching Tythe-mongers, and oppressing Impropriators, <hi>&amp;c.</hi>
+               </p>
+            </argument>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Jure Divino</hi>'s prov'd a lye,</l>
+                     <l>The Benefice must fall,</l>
+                     <l>Synods and Classes, Knaves and Fooles,</l>
+                     <l>Proud Elders, Priest, and all:</l>
+                     <l>Their dearest Darling now must lose</l>
+                     <l>Beloved Tythes I say;</l>
+                     <l>The Country Farmer then will well</l>
+                     <l>His Rent and Taxes pay.</l>
+                     <l>Spirituall Pigs, Tyth-Geese, and Hens</l>
+                     <l>Made <hi>Prestor John</hi> so stout,</l>
+                     <l>That he like Sathan compassed</l>
+                     <l>The Nation quite about.</l>
+                     <l>Religion, Law, and Gospel too,</l>
+                     <l>Were by him to be sold,</l>
+                     <l>St. <hi>Peters</hi> Keyes he'd freely lend</l>
+                     <l>To them would give him Gold.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <p>HEre's brave News, my Neighbors (saith honest <hi>Jack Bumpkin)</hi> God blesse our New Parliament, an Act is now comming forth for abolishing the payment of Tyths, under which heavy burden we have so long grievously groaned; but now Mr. Par<g ref="char:EOLhyphen"/>son
+<pb n="2" facs="tcp:118439:2"/> saith he'l shut up the Church doors, and send St. <hi>Peter</hi> the Keyes; but my Country-man can tell him 'tis not the place, but the persons assembled to<g ref="char:EOLhyphen"/>gether that make a Church; nay, he hath learnt so much Latine, and can prove it to be Di<g ref="char:EOLhyphen"/>vinity too; that <hi>utinam omnes populi essent Prophetae,</hi> he can shew you Canonicall Scrtpture for it, which is of more authority than Mr. Parsons Institution and Induction: Nay, but Mr. <hi>Symon Magus</hi> the old Symoniacall Priest of <hi>H.</hi> and <hi>B.</hi> did aver it to be sa<g ref="char:EOLhyphen"/>criledge and blaspheamy for any one to read the word of God in the Publick Congregation <hi>(vulgo</hi> the Church) unlesse he were one that had received Holy Orders; you could not have heard so much superstition out of any mans mouth, but a Tyth<g ref="char:EOLhyphen"/>monger; but now the Tythes must down, Mr. Parson sighes, he sees a good Harvest towards, and now <hi>parvas spes habet, &amp;c.</hi> his hopes faile him, that he shall not reap the sweat of other mens brows; and <hi>Mounseir Avidus</hi> the covetous Patron and Im<g ref="char:EOLhyphen"/>propriator fears least he should lose his thumping fnt Benefices, whereby he might bestow a Daugh<g ref="char:EOLhyphen"/>ter to a rich Parson, the loving Impropriator of <hi>Sutton</hi> in <hi>Hampshire,</hi> is now to States<g ref="char:EOLhyphen"/>man (but he's a Clerk himselfe) must part with his 400. pound <hi>per Annum,</hi> and the idle lazy Drone, late Dean of <hi>Armagh,</hi> must learn to rise more early in the mornings, and study to preach for his Living himselfe, and not have 300 pounds <hi>per Annum</hi> Tythes, to maintaine him to lye a bed and drinke Sack and Tobacco, and hire a poor Pedagogue for 20 l. <hi>per Annum:</hi> But some of these Priests are grown sawcy, proud, and impudent (and so they
+<pb n="3" facs="tcp:118439:2"/> were alwayes) the chanting Sir <hi>Ignoramus</hi> of <hi>Chit<g ref="char:EOLhyphen"/>tingfold,</hi> for want of better matter to run out his houre-glasse, began to expostulate with his Con<g ref="char:EOLhyphen"/>gregation about the taking away of Tythes, and displacing him, as some honest men had endeavou<g ref="char:EOLhyphen"/>red to do, not for his goodness; he plainly, boldly, and for sound Doctrine affirmed (that they should find he was a stout Knave) and as I am informed most of his Auditors confirmed his words to be an Orthodox Truth; and for my part I verily believe it, this fellow is fitter for a Parrator, and more like a Barrator then a Minister, for instead of indeavou<g ref="char:EOLhyphen"/>ring to make peace and love, and to continue amity and friendship amongst his Neighbours, he like Fryar <hi>Rush,</hi> is the beautifeu that sets all of them to<g ref="char:EOLhyphen"/>gether by the ears, there's not a Law suit heard of thereabouts, but he's at one end of it; you shall be more sure to finde him foaming at the mouth a<g ref="char:EOLhyphen"/>mongst his Lawyers, then in his study.</p>
+            <p>But now Doctour <hi>Apollos,</hi> a grave learned Di<g ref="char:EOLhyphen"/>vine, Bishop of <hi>K.</hi> near <hi>London,</hi> to save his 200 l. <hi>per Annum,</hi> rides up and down in his Coach, and lately bribed three honest Lawyers to demonstrate to the Court, that though there be many of them Knaves and Fooles, yet there be some wise learned men also. Then there is Mr. <hi>Grace,</hi> the flourishing ignorant Favourite, who by his friend, or his purse (not for his deserts in Learning or Honesty) attain<g ref="char:EOLhyphen"/>eth a Benefice; he is a resemblance to the Law fa<g ref="char:EOLhyphen"/>vourite, who for his Learning deserves rather to be an Auditor, then an ignorant Orator; <hi>sed fortu<g ref="char:EOLhyphen"/>na favet fatuis,</hi> insomuch that he is a Preacher or practicer of Fortune; the truth whereof is, that the
+<pb n="4" facs="tcp:118439:3"/> disease of his friend is the end of his practice, <hi>A<g ref="char:EOLhyphen"/>micus us{que} ad mortem;</hi> and of this <hi>Ignoramus,</hi> and Sir <hi>Ignoramus,</hi> I motto thus; <hi>Pari Jugo sociantur Asini:</hi> This Sir <hi>Ignoramus</hi> you must conceive hath com<g ref="char:EOLhyphen"/>menced Batchelour of Art in ignorance, yet he hath learned a <hi>Cambridge probo;</hi> but both he and his Kinsman in ignorance, wanting not their favouring friends to help them into a Benefice, when many a learned and studious Gentleman wanting helpe of Friends, might sit without both, so much is this froward Age we live in to be condemned, the more we see Ignorance preferred before Learning and Virtue, and dull-pated covetous Jobber-noles, un<g ref="char:EOLhyphen"/>worthyly advanced to places of profit and dignity, when many a learned Muse sits in his study, desti<g ref="char:EOLhyphen"/>tute of either; but here I only tax-time of partia<g ref="char:EOLhyphen"/>lity.</p>
+            <p>But since it is so, that the long hopes of the Hus<g ref="char:EOLhyphen"/>bandmen are almost come to effect, and Sir Priest must be one of his Tyth-mongring, his pride and stoutness amongst his Neighbours (if he intends or hopes to live by his preaching, he must fall to his study; and not like that covetous proud Symo<g ref="char:EOLhyphen"/>niacall Doctour of <hi>Cressingham,</hi> and two or three Benefices more, that used to ride up and down the fields, to see where the best Corn was, and then takes his Tyths by the Acre, and force his poor Pa<g ref="char:EOLhyphen"/>rishioners to pay him so.</p>
+            <p>And now <hi>Hugh Adoniram</hi> the Scribe sweats in his grease, like a tallow Candle in the Sun, for fear he shall lose his 400 l. <hi>per annum,</hi> which (not for his goodnesse) hee lately got in <hi>Wiltshire,</hi> leaving his flock at <hi>Fulham,</hi> to starve, or else be fed by the glass<g ref="char:EOLhyphen"/>man
+<pb n="5" facs="tcp:118439:3"/> of <hi>Hamersmith;</hi> for do what they will, <hi>Ado<g ref="char:EOLhyphen"/>niram</hi> cares not, hee delights to be where there is most money to bee got, as all other Priests of late years do; nay many of them within these few years have got a trick to shift their places as commonly as a Lady doth her Smocks, or at least her Maids; but you must alwayes observe, tis to get the better Benifice in the mystery, although they pretend and give out it is to seat themselves amongst a more con<g ref="char:EOLhyphen"/>formable religious people in the History, but the meaning is such as are more conformable to pay them their Tithes.</p>
+            <p>But here I cannot overpasse to discover the wis<g ref="char:EOLhyphen"/>dome of <hi>Adoniram,</hi> and to let you know his won<g ref="char:EOLhyphen"/>derfull policy, whereby he would demonstrate to the people, that there are some crafty covetous Knaves, amongst the Clergy, as well as ignorant Fooles; he was no sooner warm in his 400 l. <hi>per Annum,</hi> but he speedily bethinks with himself how to keep it, hearing the clamour of the Countrey, and generall crying out of the burden of Tythes, and because he saw a good Harvest towards, he forth<g ref="char:EOLhyphen"/>with frames and contrives a Petition to the Supream Authority of <hi>England</hi> the late Parliament, in the names of the grand Jury men of the County of <hi>Wilts.</hi> thereby to cloud his owne covetous villainy, praying thereby that the ministers might be encou<g ref="char:EOLhyphen"/>raged to preach the Gospel, by having their Tythes duly payd; whereas all the Jurymen, unlesse two or three that were impropriators, were of the contra<g ref="char:EOLhyphen"/>ry opinion, knowing very well the grievances of the Country thereby; but <hi>Adoniram</hi> made bold to use
+<pb n="6" facs="tcp:118439:4"/> their names and hands to it, and procured two or three of his Saints to deliver it, and came himselfe to <hi>London</hi> in expectation of some Order therein for his profit; but his hopes were frustrated, for that very day the late Parliament was dissolved, he came too late to the Parliament doore at <hi>Westminster,</hi> stu<g ref="char:EOLhyphen"/>dying mischiefe like a Bore in the Oates, and found the doore shut, and his birds flowne.</p>
+            <p>This fellow and two or three hundred more of his Comrades spent almost five yeares, and cost the State four shillings a day a piece, to invent a new frame of Church government; but they proved just like the <hi>French</hi> Milwright, who because he could make a Mill well, had a <hi>Chymera</hi> in his braine that he could make such an Engine, as should turne the Spit, draw water out of a Well, and tell the houre of the day as well as any Clock; after he had spent much time and pains about it, hee at last made a Nut-cracker of it: even so did the Learned Synod spend five years about making a Catechisme; but when I was a Schoole-boy, if I had not learned such a one in one quarter of a yeare, I should have been soundly whipt. They might far better have spent their time about translating the Bible, correcting the Errours in it, if they had knowne how; if not, I could have procured one who would have taught them for two shillings <hi>per diem,</hi> which is but halfe one of their pay: I marvell they are not ashamed (but most of them are shamelesse) to read such non<g ref="char:EOLhyphen"/>sence to the people as they doe; as in the first chapter of <hi>Luke</hi> it's said of <hi>Zacharias,</hi> that when he was dumb, and his child was to be named, they
+<pb n="7" facs="tcp:118439:4"/> made signes to his Father what he would have him called; they read it in our Translation, verse 63. that he asked for writing Tables, and wrote saying, his name is <hi>John:</hi> how can, or could a dumb man aske for Tables? if hee could, certainly then hee might have told them his name without writing. But because I will informe my Countrey-man the true sence of the words, and to learn Sir <hi>Ignoramus</hi> more Greeke then the drrunken Priest of <hi>Swallow<g ref="char:EOLhyphen"/>field</hi> ever knew; I tell you the word in the Original is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>id est, Capio, vel peto;</hi> it signi<g ref="char:EOLhyphen"/>fies, to take, or seek after; so that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which are the words in the Originall, doe signifie (and I am sure is better sence) and he sought after, or tooke a writing Table, &amp;c. for how a dumb man can ask for a thing, seems an impossibility to me; but seeing I have Mr. <hi>Adoniram, Mounseir Avidus,</hi> Sir <hi>Simon Magus,</hi> and Sir <hi>Ignoramus</hi> together; I'le try if I can tosse them like a dog in a blanket, and make them vomit out their non-sence, and rid them of their Ignorance, Pride, and Covetousnesse.</p>
+            <p>Their Tythes must away; but as for the rest, I doubt I shall strive with an impossibility; <hi>Quia ignorantia, avaritia, &amp; superbitas suae herent in nomine, in Capite, &amp; in Cute:</hi> therefore I will not spend much labour to reforme Sir <hi>Ignoramus,</hi> nor <hi>Mounseir Avidus</hi> neither, counting my labour as endlesse, as the two Maids at <hi>Detford,</hi> which endeavoured by washing the Blackmore to make him white: But to vent out some passion against Sir <hi>Simon Magus</hi> for his Simoney, I meane not that person named in the 8. of the Acts of the Apostles, for he offered to give
+<pb n="8" facs="tcp:118439:5"/> money to buy the bestowing of the Holy Ghost; this refused not to take mony to bestow a Benefice; so they were of kinne, this a Knight without live<g ref="char:EOLhyphen"/>ing, that a Knave without grace.</p>
+            <p>Their Lordships, since they have got down their Masters the Bishops, thought to be every one a Bi<g ref="char:EOLhyphen"/>shop in his Parish, and one of them lorded it so much, that a poor old man grieving thereat, made bold to speak the truth of Mr. Parson, and called him proud foole, but Sir Priest brought an Action against the old man for it, and threatned him so, (the other being not able to defend it) though he knew well enough the words would not bear an Action, that he forced the poor man to composition with him, and to give him a fat Pig &amp; halfe a dozen Chickens, and besides to come and ask him forgive<g ref="char:EOLhyphen"/>ness in the Publick Congregation, when he was in his Pulpit chanting, as if he would have cursed with Bell, Book, and Candle; then there is Master Plu<g ref="char:EOLhyphen"/>rality, the ingrossing Beneficer, one of the Actors in this Comedy, he is a person compounded out of many particularities into a plurall qualification, dispensation, and non-residence, be the only libe<g ref="char:EOLhyphen"/>rall Sciences in his study: In all these I only ayme at the iniquity of the Times, and by their names to demonstrate their qualities; I suppose no man can religiously be offeeded at me, if they be, I say no more to them, but <hi>Adsum qui dixi, in me convertite tela.</hi>
+            </p>
+            <trailer>Finis, Fustis, Funis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
